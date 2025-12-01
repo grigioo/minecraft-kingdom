@@ -38,4 +38,4 @@ while IFS=';' read -r NAME URL; do
         echo "   -> Ошибка: Не найдена подходящая версия для $NAME."
     fi
 
-done < $LISTS_DIR/mods-url.txt
+done < $LISTS_DIR/mods-list.txt
