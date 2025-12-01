@@ -49,7 +49,6 @@
 - [Jade](https://modrinth.com/mod/jade/versions?g=1.21.8&l=fabric) - shows information about what you are looking at.
 - [Chunky](https://modrinth.com/plugin/chunky/versions?g=1.21.8&l=fabric) - pre-generates chunks, quickly and efficiently.
 - [No Resource Pack Warnings](https://modrinth.com/mod/no-resource-pack-warnings/versions?g=1.21.8&l=fabric) - disable warnings for outdated resource/data packs.
-- [Pommel - Held Item Models](https://modrinth.com/mod/pommel-held-item-models/versions?g=1.21.8&l=fabric) - fabric mod that allows resource pack creators to overwrite the models for held items just like the spyglass and trident
 #### 1.21.8
 - [Continuity](https://modrinth.com/mod/continuity/versions?g=1.21.8&l=fabric) - mod that allows for efficient connected textures.
 - [Polytone](https://modrinth.com/mod/polytone/versions?g=1.21.8&l=fabric) - mod that adds Customize Map Color, Block Colors, Colormaps and Block Sounds, Biome Colors, Dye Colors. Supports Optifine format. For Resource Packs.
