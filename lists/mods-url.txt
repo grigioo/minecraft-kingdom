@@ -1,0 +1,10 @@
+Fabric API;https://modrinth.com/mod/fabric-api/versions?g=1.21.8&l=fabric
+Sodium;https://modrinth.com/mod/sodium/versions?g=1.21.8&l=fabric
+Sodium Extra;https://modrinth.com/mod/sodium-extra/versions?g=1.21.8&l=fabric
+Lithium;https://modrinth.com/mod/lithium/versions?g=1.21.8&l=fabric
+Reese's Sodium Options;https://modrinth.com/mod/reeses-sodium-options/versions?g=1.21.8&l=fabric
+Iris Shaders;https://modrinth.com/mod/iris/versions?g=1.21.8&l=fabric
+Text Placeholder API;https://modrinth.com/mod/placeholder-api/versions?g=1.21.8&l=fabric?l=fabric
+Mod Menu;https://modrinth.com/mod/modmenu/versions?g=1.21.8&l=fabric
+Entity Texture Features;https://modrinth.com/mod/entitytexturefeatures/versions?g=1.21.8&l=fabric
+Entity Model Features;https://modrinth.com/mod/entity-model-features/versions?g=1.21.8&l=fabric

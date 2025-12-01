@@ -1,0 +1,115 @@
+Fabric API;https://modrinth.com/mod/fabric-api/versions?g=1.21.8&l=fabric
+Sodium;https://modrinth.com/mod/sodium/versions?g=1.21.8&l=fabric
+Sodium Extra;https://modrinth.com/mod/sodium-extra/versions?g=1.21.8&l=fabric
+Lithium;https://modrinth.com/mod/lithium/versions?g=1.21.8&l=fabric
+Reese's Sodium Options;https://modrinth.com/mod/reeses-sodium-options/versions?g=1.21.8&l=fabric
+Iris Shaders;https://modrinth.com/mod/iris/versions?g=1.21.8&l=fabric
+Text Placeholder API;https://modrinth.com/mod/placeholder-api/versions?g=1.21.8&l=fabric?l=fabric
+Mod Menu;https://modrinth.com/mod/modmenu/versions?g=1.21.8&l=fabric
+Entity Texture Features;https://modrinth.com/mod/entitytexturefeatures/versions?g=1.21.8&l=fabric
+Entity Model Features;https://modrinth.com/mod/entity-model-features/versions?g=1.21.8&l=fabric
+Model Gap Fix;https://modrinth.com/mod/modelfix/versions?g=1.21.8&l=fabric
+Controlling;https://modrinth.com/mod/controlling/versions?g=1.21.8&l=fabric
+Searchables;https://modrinth.com/mod/searchables/versions?g=1.21.8&l=fabric
+LambDynamicLights - Dynamic Lights;https://modrinth.com/mod/lambdynamiclights/versions?g=1.21.8&l=fabric
+3D Skin Layers;https://modrinth.com/mod/3dskinlayers/versions?g=1.21.8&l=fabric
+AutoModpack;https://modrinth.com/mod/automodpack/versions?g=1.21.8&l=fabric
+Sound Physics Perfected;https://modrinth.com/mod/sound-physics-perfected/versions?g=1.21.8&l=fabric
+YetAnotherConfigLib (YACL);https://modrinth.com/mod/yacl/versions?g=1.21.8&l=fabric
+Chat Heads;https://modrinth.com/mod/chat-heads/versions?g=1.21.8&l=fabric
+Dynamic FPS;https://modrinth.com/mod/dynamic-fps/versions?g=1.21.8&l=fabric
+Inventory Profiles Next;https://modrinth.com/mod/inventory-profiles-next/versions?g=1.21.8&l=fabric
+Fabric Language Kotlin;https://modrinth.com/mod/fabric-language-kotlin/versions?g=1.21.8&l=fabric
+libIPN;https://modrinth.com/mod/libipn/versions?g=1.21.8&l=fabric
+Mouse Tweaks;https://modrinth.com/mod/mouse-tweaks/versions?g=1.21.8&l=fabric
+BetterF3;https://modrinth.com/mod/betterf3/versions?g=1.21.8&l=fabric
+Cloth Config API;https://modrinth.com/mod/cloth-config/versions?g=1.21.8&l=fabric
+Roughly Enough Items;https://modrinth.com/mod/rei/versions?g=1.21.8&l=fabric
+Architectury API;https://modrinth.com/mod/architectury-api/versions?g=1.21.8&l=fabric
+Not Enough Crashes;https://modrinth.com/mod/notenoughcrashes/versions?g=1.21.8&l=fabric
+RightClickHarvest;https://modrinth.com/mod/rightclickharvest/versions?g=1.21.8&l=fabric
+JamLib;https://modrinth.com/mod/jamlib/versions?g=1.21.8&l=fabric
+Better Statistics Screen;https://modrinth.com/mod/better-stats/versions?g=1.21.8&l=fabric
+TCDCommons API;https://modrinth.com/mod/tcdcommons/versions?g=1.21.8&l=fabric
+Jade;https://modrinth.com/mod/jade/versions?g=1.21.8&l=fabric
+Chunky;https://modrinth.com/plugin/chunky/versions?g=1.21.8&l=fabric
+No Resource Pack Warnings;https://modrinth.com/mod/no-resource-pack-warnings/versions?g=1.21.8&l=fabric
+Pommel - Held Item Models;https://modrinth.com/mod/pommel-held-item-models/versions?g=1.21.8&l=fabric
+Continuity;https://modrinth.com/mod/continuity/versions?g=1.21.8&l=fabric
+Polytone;https://modrinth.com/mod/polytone/versions?g=1.21.8&l=fabric
+Roughly Enough Professions;https://modrinth.com/mod/roughly-enough-professions-rep/versions?g=1.21.8&l=fabric
+Show Me Your Skin!;https://modrinth.com/mod/show-me-your-skin/versions?g=1.21.8&l=fabric
+CICADA;https://modrinth.com/mod/cicada/versions?g=1.21.8&l=fabric
+Distant Horizons;https://modrinth.com/mod/distanthorizons/versions?g=1.21.8&l=fabric
+voxy;https://modrinth.com/mod/voxy/versions?g=1.21.8&l=fabric
+Bobby;https://modrinth.com/mod/bobby/versions?g=1.21.8&l=fabric
+Concurrent Chunk Management Engine;https://modrinth.com/mod/c2me-fabric/versions?g=1.21.8&l=fabric
+AsyncParticles;https://modrinth.com/mod/asyncparticles/versions?g=1.21.8&l=fabric
+FerriteCore;https://modrinth.com/mod/ferrite-core/versions?g=1.21.8&l=fabric
+Entity Culling;https://modrinth.com/mod/entityculling/versions?g=1.21.8&l=fabric
+Cull Leaves;https://modrinth.com/mod/cull-leaves/versions?g=1.21.8&l=fabric
+MidnightLib;https://modrinth.com/mod/midnightlib/versions?g=1.21.8&l=fabric
+Tectonic;https://modrinth.com/datapack/tectonic/versions?g=1.21.8&l=fabric
+Continents;https://modrinth.com/datapack/continents/versions?g=1.21.8&l=fabric
+Cliff Face;https://modrinth.com/mod/cliff-face/versions?g=1.21.8&l=fabric
+William Wythers' Overhauled Overworld;https://modrinth.com/mod/wwoo/versions?g=1.21.9&l=fabric
+Cristel Lib;https://modrinth.com/mod/cristel-lib/versions?g=1.21.9&l=fabric
+Still Life;https://modrinth.com/datapack/still-life/versions?g=1.21.8&l=fabric
+Lithosphere;https://modrinth.com/datapack/lithosphere/versions?g=1.21.8&l=fabric
+Friends&Foes;https://modrinth.com/mod/friends-and-foes/versions?g=1.21.8&l=fabric
+Resourceful Lib;https://modrinth.com/mod/resourceful-lib/versions?g=1.21.8&l=fabric
+Friends&Foes - Beekeeper Hut;https://modrinth.com/mod/friends-and-foes-beekeeper-hut-fabric/versions?g=1.21.8&l=fabric
+Friends&Foes - Flowery Mooblooms;https://modrinth.com/mod/friends-and-foes-flowery-mooblooms-fabric/versions?g=1.21.8&l=fabric
+yyz's backpack;https://modrinth.com/mod/yyzs-backpack/versions?g=1.21.8&l=fabric
+Natural Charcoal;https://modrinth.com/mod/natural-charcoal/versions?g=1.21.8&l=fabric
+Collective;https://modrinth.com/mod/collective/versions?g=1.21.8&l=fabric
+Do a Barrel Roll;https://modrinth.com/mod/do-a-barrel-roll/versions?g=1.21.8&l=fabric
+Simple Voice Chat;https://modrinth.com/plugin/simple-voice-chat/versions?g=1.21.8&l=fabric
+Cut Through;https://modrinth.com/mod/cut-through/versions?g=1.21.8&l=fabric
+Forge Config API Port;https://modrinth.com/mod/forge-config-api-port/versions?g=1.21.8&l=fabric
+Puzzles Lib;https://modrinth.com/mod/puzzles-lib/versions?g=1.21.8&l=fabric
+Easy Shulker Boxes;https://modrinth.com/mod/easy-shulker-boxes/versions?g=1.21.8&l=fabric
+Respackopts;https://modrinth.com/mod/respackopts/versions?g=1.21.8&l=fabric
+LibJF;https://modrinth.com/mod/libjf/versions?g=1.21.8&l=fabric
+Serene Seasons;https://modrinth.com/mod/serene-seasons/versions?g=1.21.8&l=fabric
+GlitchCore;https://modrinth.com/mod/glitchcore/versions?g=1.21.8&l=fabric
+Better Copper Golem;https://modrinth.com/mod/bettercoppergolem/versions?g=1.21.9&l=fabric
+Physical Falling Trees;https://modrinth.com/datapack/physical-falling-trees/versions?g=1.21.8&l=fabric
+Carry On;https://modrinth.com/mod/carry-on/versions?g=1.21.8&l=fabric
+Horseman;https://modrinth.com/mod/horseman/versions?g=1.21.8&l=fabric
+Cool Rain;https://modrinth.com/mod/coolrain/versions?g=1.21.8&l=fabric
+Atmosfera;https://modrinth.com/mod/atmosfera/versions?g=1.21.8&l=fabric
+Sounds;https://modrinth.com/mod/sound/versions?g=1.21.8&l=fabric
+M.R.U;https://modrinth.com/mod/mru/versions?g=1.21.8&l=fabric
+Presence Footsteps;https://modrinth.com/mod/presence-footsteps/versions?g=1.21.8&l=fabric
+Particle Rain;https://modrinth.com/mod/particle-rain/versions?g=1.21.8&l=fabric
+Particle Interactions;https://modrinth.com/mod/particle-interactions/versions?g=1.21.8&l=fabric
+Visuality;https://modrinth.com/mod/visuality/versions?g=1.21.8&l=fabric
+Particular Reforged;https://modrinth.com/mod/particular-reforged/versions?g=1.21.8&l=fabric?l=fabric
+Windy;https://modrinth.com/mod/windy/versions?g=1.21.8&l=fabric
+Falling Leaves;https://modrinth.com/mod/fallingleaves/versions?g=1.21.8&l=fabric
+Particle Effects;https://modrinth.com/mod/particle-effects/versions?g=1.21.8&l=fabric
+Perception;https://modrinth.com/mod/perception/versions?g=1.21.8&l=fabric
+OctoLib;https://modrinth.com/mod/octo-lib/versions?g=1.21.8&l=fabric
+Explosive Enhancement;https://modrinth.com/mod/explosive-enhancement/versions?g=1.21.8&l=fabric
+Tightfire;https://modrinth.com/mod/tightfire/versions?g=1.21.8&l=fabric
+Cosy Critters & Creepy Crawlies;https://modrinth.com/mod/cosy-critters/versions?g=1.21.8&l=fabric
+Enchantment Glint Outline;https://modrinth.com/mod/enchantment-glint-outline/versions?g=1.21.8&l=fabric
+Subtle Effects;https://modrinth.com/mod/subtle-effects/versions?g=1.21.8&l=fabric
+Fzzy Config;https://modrinth.com/mod/fzzy-config/versions?g=1.21.8&l=fabric
+Vectorientation;https://modrinth.com/mod/vectorientation/versions?g=1.21.8&l=fabric
+Wakes;https://modrinth.com/mod/wakes/versions?g=1.21.8&l=fabric
+Cave Dust;https://modrinth.com/mod/cave-dust/versions?g=1.21.8&l=fabric
+Detail Armor Bar Reconstructed;https://modrinth.com/mod/detail-armor-bar-reconstructed/versions?g=1.21.8&l=fabric
+Smooth Scrolling;https://modrinth.com/mod/smooth-scroll/versions?g=1.21.8&l=fabric
+Smooth Swapping;https://modrinth.com/mod/smooth-swapping/versions?g=1.21.8&l=fabric
+Status Effect Bars;https://modrinth.com/mod/status-effect-bars/versions?g=1.21.8&l=fabric
+Tiny Item Animations;https://modrinth.com/mod/tiny-item-animations/versions?g=1.21.8&l=fabric
+Camera Overhaul;https://modrinth.com/mod/cameraoverhaul/versions?g=1.21.8&l=fabric
+Shoulder Surfing Reloaded;https://modrinth.com/mod/shoulder-surfing-reloaded/versions?g=1.21.8&l=fabric
+Fancy Door Animations;https://modrinth.com/mod/fancy-door-animations/versions?g=1.21.8&l=fabric
+Hold My Items;https://modrinth.com/mod/hold-my-items/versions?g=1.21.8&l=fabric
+Not Enough Animations;https://modrinth.com/mod/not-enough-animations/versions?g=1.21.8&l=fabric
+2D Projectiles;https://modrinth.com/mod/twod_projectiles/versions?g=1.21.8&l=fabric
+3D Armor;https://modrinth.com/mod/armor-3d/versions?g=1.21.8&l=fabric
+Entity Pin Cushion Revived;https://modrinth.com/mod/entity-pin-cushion-revived/versions?g=1.21.8&l=fabric
