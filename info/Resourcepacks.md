@@ -11,6 +11,8 @@
 #### 1.21.9
 - [Dynamic Surroundings Sounds Pack](https://www.curseforge.com/minecraft/texture-packs/dynamic-surroundings-remastered/files/all?page=1&pageSize=20&showAlphaFiles=hide) - immerse yourself in Minecraft's lifelike soundscapes with a simple resource pack.
 - [Vocal Villagers](https://modrinth.com/resourcepack/vvi/versions?g=1.21.8) - Adds 43 extra sounds villagers can make! Maintain the vanilla feel while making villages more lively.
+- [Angel's Weather](https://modrinth.com/resourcepack/angels-weather/versions?g=1.21.8) - a Weather Miracle — Goddess Selya offers her divine creation to the world, bestowing upon you a realm of renewed beauty and wonder. 
+- [Gentler Weather Sounds](https://modrinth.com/resourcepack/gentler-weather-sounds/versions?g=1.21.8) - weather sounds you won't mind listening to.
 
 ---
 ### World
@@ -23,6 +25,7 @@
 #### 1.21.9
 - [Elytra Contrails](https://modrinth.com/resourcepack/elytra-contrails/versions?g=1.21.8) - Adds wingtip contrails to elytras.
 - [Weskerson's Torches](https://modrinth.com/resourcepack/weskersons-torches/versions?g=1.21.8) - Give your Torches some much needed TLC with this revamp. Overhauls the torch textures while adding an animated fire and unique glow!
+- [Enchantment Outlines](https://modrinth.com/resourcepack/glowing-glints/versions?g=1.21.8) - adds an outline to all enchantable tools. By Tixork.
 #### 1.21.8
 - [Light Leak](https://modrinth.com/resourcepack/light-leak/versions?g=1.21.8) - A resource pack that aims to make lightsources such as torches and lanterns cinematic and visually pleasing!
 #### 1.21.?
@@ -69,6 +72,7 @@
 - [Actually 3D Stuff](https://modrinth.com/resourcepack/actually-3d-stuff/versions?g=1.21.8) - Some 3D stuff specially for Hold My Items Mod.
 - [Bray & Cyber's Better, Fresher 3D Books](https://modrinth.com/resourcepack/bray-cyber-3d-enchanted-books/versions?g=1.21.8) - A collaboration pack between Bray and Cyber to make 3D book models for all enchanted book variations!
 - [Drodi's Arsenal](https://modrinth.com/resourcepack/drodis-arsenal/versions?g=1.21.8) - overhaul of Minecraft's tools and armor.
+- [Bee's Blockier Goat Horn](https://modrinth.com/resourcepack/blockier-goat-horn/versions?g=1.21.8) - a blocky model for the goat horn item.
 #### 1.21.?
 - [Beautiful totem of undying](https://modrinth.com/resourcepack/beautiful-totem-of-unduying/versions) - This is a resource pack on adding a 3D model for the totem of unduying. But in the inventory and in the hot bar there is a 2D texture.
 
@@ -87,3 +91,8 @@
 - [Baby Animals Remastered](https://modrinth.com/resourcepack/baby-animals-remastered/versions) - Changes the models and textures of Baby Animals.
 - [Drodi's Villagers](https://modrinth.com/resourcepack/drodis-villagers/versions) - Drodi’s Villagers tries to combine aesthetics and utility to make Villagers more visually interesting.
 - [Drodi's Villagers x Fresh Animations](https://modrinth.com/resourcepack/drodis-villagers-fa/versions) - Torn between Drodi’s Villagers and Fresh Animations? You’ve come to the right place.
+
+---
+### GUI
+#### 1.21.9
+- [Recolourful Containers GUI + HUD](https://modrinth.com/resourcepack/recolourful-containers-gui/versions?g=1.21.8) - do you want more immersive, more interesting, more colourful GUIs and HUD? Than this pack is for you!

@@ -107,6 +107,11 @@
 - [LibJF](https://modrinth.com/mod/libjf/versions?g=1.21.8&l=fabric) - a library for my mods
 - [Serene Seasons](https://modrinth.com/mod/serene-seasons/versions?g=1.21.8&l=fabric) - mod that add seasons with changing colors, shifting temperatures, and more.
 - [GlitchCore](https://modrinth.com/mod/glitchcore/versions?g=1.21.8&l=fabric) - a library mod aimed at abstracting mod loaders and providing various utilities for our mods.
+- [Bridging Mod](https://modrinth.com/mod/bridging-mod/versions?g=1.21.8&l=fabric) - *Client-side* - reacharound Placement / Bedrock Bridging for Fabric, Forge & Quilt with a few extra tweaks. 
+- [Snow Under Trees](https://modrinth.com/mod/snow-under-trees-remastered/versions?g=1.21.8) - *Server-side* - adds snow under trees in snowy biomes, making the biomes more immersive.
+- [Inventory Essentials](https://modrinth.com/mod/inventory-essentials/versions?g=1.21.8&l=fabric) - *Client-and-server* - the most essential inventory tweaks. Now with sorting!
+- [Balm](https://modrinth.com/mod/balm/versions?g=1.21.8&l=fabric) - *Client-and-server* - abstraction Layer for Multiplatform Mods.
+
 #### 1.21.9 - Only!
 - [Better Copper Golem](https://modrinth.com/mod/bettercoppergolem/versions?g=1.21.9&l=fabric) - a small mod that tweaks vanilla golem AI.
 #### 1.21.8
@@ -138,6 +143,7 @@
 - [Explosive Enhancement](https://modrinth.com/mod/explosive-enhancement/versions?g=1.21.8&l=fabric) - mod that makes the explosion animation look cooler.
 - [Tightfire](https://modrinth.com/mod/tightfire/versions?g=1.21.8&l=fabric) - mod that makes fire render tighter against blocks like slabs and fences.
 - [Cosy Critters & Creepy Crawlies](https://modrinth.com/mod/cosy-critters/versions?g=1.21.8&l=fabric) - mod that adds adorable atmospheric animals: birds, bugs, and bothersome creatures.
+- [Better Clouds](https://modrinth.com/mod/better-clouds/versions?g=1.21.8&l=fabric) - *Client-side* - beautiful clouds in touch with the vanilla style.
 #### 1.21.8
 - [Enchantment Glint Outline](https://modrinth.com/mod/enchantment-glint-outline/versions?g=1.21.8&l=fabric) - this mod adds a customisable outline to enchanted items. Works with resource packs and vanilla shaders. Sodium compatible.
 - [Subtle Effects](https://modrinth.com/mod/subtle-effects/versions?g=1.21.8&l=fabric) - mot adding many new subtle details through particles and a few sounds.
@@ -171,5 +177,8 @@
 #### 1.21.9
 - [2D Projectiles](https://modrinth.com/mod/twod_projectiles/versions?g=1.21.8&l=fabric) - mod that makes projectiles look 2D.
 - [3D Armor](https://modrinth.com/mod/armor-3d/versions?g=1.21.8&l=fabric) - mod that renders the player and entity equipped armor in 3D and is compatible with most modded armor, dyes, and trims with support for 16x resource packs.
+- [Elytra Physics](https://modrinth.com/mod/elytra-physics/versions?g=1.21.8&l=fabric) - *Client-side* - a simple mod that adds cape-like physics to the elytra when worn by the player.
+- [Elytra Trims](https://modrinth.com/mod/elytra-trims/versions?g=1.21.8&l=fabric) - *Client-and-server* - customizable elytra mod with trims, banner patterns and more!
+
 #### 1.21.8
 - [Entity Pin Cushion Revived](https://modrinth.com/mod/entity-pin-cushion-revived/versions?g=1.21.8&l=fabric) - mod that let arrows yo stick into most mobs, not just players.
